@@ -1,0 +1,7 @@
+lib/*
+*.pkl
+*.txt
+*.zip
+*.ipynb_checkpoints
+*.log
+classifier/geckodriver*
