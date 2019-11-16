@@ -5,3 +5,4 @@ lib/*
 *.ipynb_checkpoints
 *.log
 classifier/geckodriver*
+sentence_encoder/model/*
